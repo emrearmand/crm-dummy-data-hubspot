@@ -25,4 +25,6 @@ Data is dummy and for learning purposes only.
 No external libraries (like pandas) are used—just built-in CSV and basic Python.
 
 *Created as a beginner portfolio project for CRM data practice.*
+## Screenshot
+![hubspot-crm-basic](crm_hubspot.png)
 
