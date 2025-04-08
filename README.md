@@ -1,31 +1,17 @@
-📊 HubSpot CRM Dummy Data (Basic CRM Skill Showcase)
-This project contains dummy CRM contact data created using HubSpot as part of my learning and portfolio building.
+# CRM Dummy Project - HubSpot Contacts & Deals
 
-📌 Description
-Created 6 dummy contacts manually on HubSpot CRM
+This repository contains a simple CRM project using dummy data exported from HubSpot.
 
-Added 3 deals linked to 3 of the contacts
+## 📁 Files
+- `hubspot-crm-exports-all-customers-2025-04-08.csv` – Dummy contact & deal data
+- `read_csv_basic.py` – Basic Python script to read and display the CSV content
 
-Exported contact records as .csv file
+## 🧰 Tools Used
+- HubSpot (CRM platform)
+- Python (for reading the CSV file)
+- GitHub (to store the project)
 
-Set currency to IDR (Indonesian Rupiah)
-
-Simulates basic use of CRM for managing customer relationships and sales pipelines
-
-📁 Files
-hubspot_contacts.csv: Exported data from HubSpot (includes contact names, emails, and associated deals)
-
-🛠️ Tools Used
-HubSpot (Free CRM)
-
-Manual data entry
-
-Data exported to CSV
-
-💡 Notes
-Dummy contacts include both local (Indonesia) and international names
-
-Some contacts have associated deals, others do not — this simulates a real-world pipeline
-
-📈 Purpose
-This repo is used to showcase my familiarity with basic CRM usage and data structure. It serves as a portfolio item for my interest in business development, CRM tools, and customer data management.
+## 🚀 How to Run
+Make sure you have Python installed, then run:
+```bash
+python read_csv_basic.py
