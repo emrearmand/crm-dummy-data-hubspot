@@ -26,5 +26,6 @@ No external libraries (like pandas) are used—just built-in CSV and basic Pytho
 
 *Created as a beginner portfolio project for CRM data practice.*
 ## Screenshot
-![hubspot-crm-basic](crm_hubspot.png)
+![hubspot-crm-basic](crm_hubspot_pic.png)
+
 
